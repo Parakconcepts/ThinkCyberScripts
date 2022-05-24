@@ -1,0 +1,257 @@
+    1  pwd
+    2  who am i
+    3  ls
+    4  date
+    5  cal
+    6  cd ..
+    7  ls
+    8  pwd
+    9  who am i
+   10  clear
+   11  echo "My first linux class"
+   12  ls
+   13  cd ..
+   14  ls
+   15  cd ..
+   16  ls
+   17  cd 
+   18  ls
+   19  cd ..
+   20  ls
+   21  cd /home
+   22  ls
+   23  cd ..
+   24  ls
+   25  clear
+   26  mkdir olalekan
+   27  ls
+   28  cd /olalekan
+   29  ls
+   30  echo "My first linux class" > mikoo.txt
+   31  ls
+   32  cat mikoo.txt
+   33  less mikoo.txt
+   34  clear
+   35  ls
+   36  cd ..
+   37  ls
+   38  mkdir thinkcyber
+   39  pwd
+   40  cd ..
+   41  pwd
+   42  ls
+   43  cd /thinkcyber
+   44  ls
+   45  echo "whats going on here"
+   46  echo "whats going on here" > lasgodo.txt
+   47  ls
+   48  cat mikoo.txt
+   49  cat lasgodo.txt
+   50  less lasgodo.txt
+   51  ls -la
+   52  less vmlinuz.old
+   53  cd ..
+   54  ls
+   55  less vmlinuz.old
+   56  ls
+   57  ls -la
+   58  ls -lh
+   59  clear
+   60  pwd
+   61  ls
+   62  echo "I am here to conquer" > jummy.txt
+   63  ls
+   64  cat jummy.txt
+   65  ls
+   66  ls -la
+   67  ls -lh
+   68  ls -l /usr/bin/python
+   69  ls
+   70  cd /olalekan
+   71  ls
+   72  ls -lh
+   73  rmdir olalekan
+   74  cd ..
+   75  ls
+   76  rmdir olalekan
+   77  clear
+   78  ls
+   79  pwd
+   80  mkdir weddings
+   81  cd /weddings
+   82  cd ..
+   83  mv jummy.txt weddings
+   84  ls
+   85  cd /weddings
+   86  ls
+   87  cd ..
+   88  ls
+   89  ls thinkcyber
+   90  ls weddings
+   91  cat /weddings/jummy.txt
+   92  cd ..
+   93  ls
+   94  cd ..
+   95  ls
+   96  cd ..
+   97  cd kali
+   98  cd /home
+   99  ls
+  100  cd kali
+  101  ls
+  102  cat /etc/shells
+  103  cat /etc/shadow
+  104  ls
+  105  cd /home/kali
+  106  ls
+  107  ls -l/usr/bin/python
+  108  ls /l/usr/bin/python
+  109  ls -l /usr/bin/python
+  110  clear
+  111  ls /usr/nin/python
+  112  ls /usr/bin/python
+  113  ls -l /usr/bin/python
+  114  cat /etc/shells
+  115  su root
+  116  su kali
+  117  cat /etc/shadow
+  118  su kali
+  119  sudo adduser
+  120  cat /etc/shadow
+  121  sudo adduser Olamilekan
+  122  sudo adduser lamilekan
+  123  cat /etc/shadow
+  124  sudo userdel -r "lamilekan"
+  125  cat /etc/shadow
+  126  ipconfig
+  127  ifconfig
+  128  ip link
+  129  ip address
+  130  ping 192.168.215.128
+  131  history
+  132  exit
+  133  su root
+  134  ifconfig
+  135  clear
+  136  ip link
+  137  ip address
+  138  ping 192.168.215.128
+  139  ip route www.google.com
+  140  ping www.google.com
+  141  ip route 216.58.223.196
+  142  ip route
+  143  traceroute 216.58.223.196
+  144  netstat 
+  145  dig
+  146  tcpdump
+  147  ping www.google.com -c 5 > streampre2.txt
+  148  cat streampre2.txt
+  149  cat streampre2.txt | grep "64 bytes"
+  150  cat streampre2.txt
+  151  cat streampre2.txt | grep "64 bytes" | cut -d " " -f4
+  152  cat streampre2.txt | grep "64 bytes" | cut -d " " -f5
+  153  cat streampre2.txt | grep "64 bytes" | cut -d " " -f1
+  154  ls
+  155  cat streampre2.txt | grep "64 bytes" | cut -d " " -f 1
+  156  cat streampre2.txt | grep "64 bytes" | cut -d " " -f4 | tr -d "net" 
+  157  cat streampre2.txt | grep "64 bytes" | cut -d "e" -f4
+  158  cat streampre2.txt | grep "64 bytes"
+  159  cat streampre2.txt | grep "64 bytes" | tr -d "net" 
+  160  cler
+  161  clear
+  162  cat /bin/shells
+  163  cat etc/shells
+  164  cat /etc/shells
+  165  nano str2bSeg1.sh
+  166  ls
+  167  chmod 777 str2bSeg1.sh
+  168  ls
+  169  cat str2bSeg1.sh
+  170  bash str2bSeg1.sh
+  171  ls
+  172  nano olajumoke.sh
+  173  ls
+  174  chmod 777 olajumoke.sh
+  175  ls
+  176  cat olajumoke.sh
+  177  bash olajumoke.sh
+  178  nano olajummy.sh
+  179  bash olajumoke.sh
+  180  ls
+  181  chmod 777 olajummy.sh
+  182  ls
+  183  bash olajummy.sh
+  184  nano olajummy.sh
+  185  fg
+  186  nano olajummy.sh
+  187  bash olajummy.sh
+  188  nano olajummy.sh
+  189  bash olajummy.sh
+  190  history
+  191  echo history > commandlst.txt
+  192  cat commandlst.txt
+  193  ifconfig
+  194  clear
+  195  ls
+  196  ifconfig
+  197  ping 192.168.215.128 > tcyber.txt
+  198  cat tcyber.txt
+  199  nano cyberclass.sh
+  200  ls
+  201  chmod 777 cyberclass.sh
+  202  ls
+  203  nano cyberclass.sh
+  204  bash cyberclass.sh
+  205  ./cyberclass.sh
+  206  nano tcyberclass.sh
+  207  ls
+  208  chmod 777 tcyberclass.sh
+  209  ls
+  210  bash tcyberclass.sh
+  211  nano tcyberclass.sh
+  212  bash tcyberclass.sh
+  213  nano tcyberclass.sh
+  214  bash tcyberclass.sh
+  215  nano tcyberclass.sh
+  216  bash tcyberclass.sh
+  217  bash tcyberclass2.sh
+  218  nano tcyberclass2.sh
+  219  ls
+  220  chmod 777 tcyberclass2.sh
+  221  bash  tcyberclass2.sh
+  222  nano tcyberclass2.sh
+  223  bash  tcyberclass2.sh
+  224  nano tcyberclass2.sh
+  225  bash  tcyberclass2.sh
+  226  nano tcyberclass2.sh
+  227  bash  tcyberclass2.sh
+  228  nano tcyberclass2.sh
+  229  nano tcyberclass.sh
+  230  nano tcyberclass3.sh
+  231  chmod 777  tcyberclass3.sh
+  232  ls
+  233  bash tcyberclass3.sh
+  234  nano tcyberclass3.sh
+  235  bash tcyberclass3.sh
+  236  nano tcyberclass3.sh
+  237  bash tcyberclass3.sh
+  238  nano tcyberclass3.sh
+  239  bash tcyberclass3.sh
+  240  nano tcyberclass3.sh
+  241  bash tcyberclass3.sh
+  242  nano tcyberclass3.sh
+  243  bash tcyberclass3.sh
+  244  nano tcyberclass4.sh
+  245  chmod 777  tcyberclass4.sh
+  246  bash tcyberclass4.sh
+  247  nano tcyberclass4.sh
+  248  bash tcyberclass4.sh
+  249  nano tcyberclass4.sh
+  250  bash tcyberclass4.sh
+  251  nano tcyberclass4.sh
+  252  bash tcyberclass4.sh
+  253  nano tcyberclass4.sh
+  254  nano tcyberclass5.sh
+  255  chmod 777  tcyberclass5.sh
+  256  ./tcyberclass5.sh
+  257  history
